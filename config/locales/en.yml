@@ -1,0 +1,4 @@
+en:
+  spree:
+    paytm:
+      paytm_payment_failed: "Payment could not be processed, something went wrong"
